@@ -4,7 +4,7 @@ import json
 import urllib2
 
 BRIDGE_URL = "http://127.0.0.1:8765/ingest"
-MAX_BODY = 12000
+MAX_BODY = 500000
 
 class BurpExtender(IBurpExtender, IHttpListener):
     def registerExtenderCallbacks(self, callbacks):
