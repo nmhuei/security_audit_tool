@@ -4,8 +4,8 @@
 
 **A professional, modular Linux security scanner with AI-powered analysis**
 
-[![CI](https://github.com/your-username/security-audit-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/security-audit-tool/actions)
-[![Coverage](https://codecov.io/gh/your-username/security-audit-tool/branch/main/graph/badge.svg)](https://codecov.io/gh/your-username/security-audit-tool)
+[![CI](https://github.com/nmhuei/security_audit_tool/actions/workflows/ci.yml/badge.svg)](https://github.com/nmhuei/security_audit_tool/actions)
+[![Coverage](https://codecov.io/gh/nmhuei/security_audit_tool/branch/main/graph/badge.svg)](https://codecov.io/gh/nmhuei/security_audit_tool)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -58,8 +58,8 @@ It runs entirely on your machine, reports what it finds, and optionally auto-fix
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/security-audit-tool.git
-cd security-audit-tool
+git clone https://github.com/nmhuei/security_audit_tool.git
+cd security_audit_tool
 
 # Option A: Make (recommended)
 make venv
