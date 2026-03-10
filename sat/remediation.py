@@ -348,6 +348,13 @@ def apply_fixes(
                                  "success": False,
                                  "message": "Skipped (not safe — use --unsafe to enable)"})
                 continue
+
+            # In dry-run mode, preview fixes even if root would be required.
+            # This keeps plan visibility complete on non-root CI runners.
+            if dry_run:
+                fixable.append((f, fx))
+                continue
+
             if fx.requires_root and not is_root:
                 results.append({"finding": f.get("title"), "fix": fx.description,
                                  "success": False, "message": "Skipped: requires root"})
