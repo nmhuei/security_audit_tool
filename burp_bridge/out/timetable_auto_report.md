@@ -1,0 +1,21 @@
+# Timetable Auto Report
+
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_13038198.json` | kind=request status=None method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_1389921387.json` | kind=response status=304 method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_1404817661.json` | kind=request status=None method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_1472264366.json` | kind=response status=304 method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_326015482.json` | kind=request status=None method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_970087611.json` | kind=response status=304 method=GET len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `GET__students_api_remote-configs_timetable_130037069.json` | kind=response status=304 method=GET len=0 | https://erp.usth.edu.vn:443/students/api/remote-configs/timetable
+- `GET__students_api_remote-configs_timetable_310234766.json` | kind=request status=None method=GET len=0 | https://erp.usth.edu.vn:443/students/api/remote-configs/timetable
+- `HEAD__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_747202949.json` | kind=response status=304 method=HEAD len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `HEAD__students__next_data_A0bOa5KISKGDgQXE8XkGQ_vi_learn_timetable.json_861145361.json` | kind=request status=None method=HEAD len=0 | https://erp.usth.edu.vn:443/students/_next/data/A0bOa5KISKGDgQXE8XkGQ/vi/learn/timetable.json
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_1015282441.json` | kind=response status=200 method=POST len=12014 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_1167622229.json` | kind=request status=None method=POST len=49 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_1227950507.json` | kind=request status=None method=POST len=49 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_1965557984.json` | kind=request status=None method=POST len=81 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_2066574866.json` | kind=response status=200 method=POST len=12014 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_2108085615.json` | kind=response status=200 method=POST len=12014 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_276192271.json` | kind=request status=None method=POST len=81 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `POST__student-services_api_v2_timetables_query-student-timetable-in-range_459550945.json` | kind=response status=200 method=POST len=12014 | https://erp.usth.edu.vn:443/student-services/api/v2/timetables/query-student-timetable-in-range
+- `manual-test-1.json` | kind=None status=None method=GET len=0 | https://portal.usth.edu.vn/students/learn/timetable
