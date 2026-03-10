@@ -1,0 +1,5 @@
+# Core (stdlib only – no extra deps needed for basic scan)
+# Optional but recommended:
+rich>=13.0.0          # Beautiful TUI dashboard
+pyyaml>=6.0           # YAML config file support
+requests>=2.31.0      # HTTP (fallback option)

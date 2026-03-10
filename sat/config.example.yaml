@@ -1,0 +1,22 @@
+# Security Audit Tool – Configuration
+scan:
+  timeout_per_module: 120   # seconds per scanner module
+  max_threads: 8
+  local_only: true
+  skip_modules: []          # e.g. [docker_scan, systemd_scan]
+
+# Set ANTHROPIC_API_KEY env var OR uncomment below for AI analysis
+# anthropic:
+#   api_key: "sk-ant-..."
+
+telegram:
+  enabled: false
+  bot_token: "123456:ABCDEF..."
+  chat_id: "123456789"
+  mode: "once"              # once | poll
+
+output:
+  report_dir: "reports"
+  json_report: "latest_report.json"
+  text_report: "latest_summary.txt"
+  html_report: "latest_report.html"   # NEW: HTML export
